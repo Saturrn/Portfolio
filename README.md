@@ -1,10 +1,10 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
 body {
   background-color: #2DC4A8;
 }
+  
 ul {
   list-style-type: none;
   margin: 0;
