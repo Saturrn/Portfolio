@@ -79,6 +79,7 @@ li a:hover:not(.active) {
 }
 </style>
 </head>
+
 <body>
 
 <div id="navbar">
@@ -91,7 +92,6 @@ li a:hover:not(.active) {
   </ul>
 </div>
 
-</body>
 
 <div class="Welcome">
 <section id="welcome-section">
