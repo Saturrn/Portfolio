@@ -1,4 +1,5 @@
 <body>
+
   <div id="navbar">
     <ul>
       <li><a href="#welcome-section">Home</a></li>
@@ -40,12 +41,13 @@
   <div class="contact">
     <h2> Contact </h2>
     <a href="https://www.twitter.com" target="_blank">
-      <img border="0" alt="Twitter" src="https://norsis.no/wp-content/uploads/2018/05/twitter.jpg" width="50" height="50">
+      <img border="0" alt="Twitter" src="https://norsis.no/wp-content/uploads/2018/05/twitter.jpg" width="50" height="50"> </a>
       <a href="https://www.youtube.com" target="_blank">
-        <img border="0" alt="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" width="50" height="50">
+        <img border="0" alt="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" width="50" height="50"> </a>
+        
         <p> Email: Bastas.Atahan@gmail.com </p>
-  </div>
-</section>    
+</div>
+</section>
 </body>
 <style>
 body {
