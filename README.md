@@ -1,7 +1,7 @@
 <html>
 <head>
 <style>
-body {
+{
   background-color: #2DC4A8;
 }
 ul {
@@ -79,8 +79,6 @@ li a:hover:not(.active) {
 
 <body>
 
-<body>
-
 <div id="navbar">
   <ul>
     <li><a href="#welcome-section">Home</a></li>
@@ -91,9 +89,6 @@ li a:hover:not(.active) {
   </ul>
 </div>
 
-</body>
-
-<body>
 
 <div id="navbar">
   <ul>
@@ -104,8 +99,6 @@ li a:hover:not(.active) {
     <li><a href="#contact">Contact</a></li>
   </ul>
 </div>
-
-</body>
 
 <div class="Welcome">
 <section id="welcome-section">
