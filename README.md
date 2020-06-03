@@ -4,22 +4,19 @@
 body {
   background-color: #2DC4A8;
 }
-  
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: black;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 li {
   float: left;
-  border-right:1px solid #bbb;
-}
-
-li:last-child {
-  border-right: none;
 }
 
 li a {
@@ -35,7 +32,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-  background-color: #black;
+  background-color: #2DC4A8;
 }
 
 #welcome-section {
@@ -82,16 +79,19 @@ li a:hover:not(.active) {
 
 <body>
 
+<body>
+
 <div id="navbar">
   <ul>
     <li><a href="#welcome-section">Home</a></li>
     <li><a href="#projects">Projects</a></li>
     <li><a href="https://github.com/Saturrn" target="_blank">Github</a>       </li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#about">About</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ul>
 </div>
 
+</body>
 
 <div class="Welcome">
 <section id="welcome-section">
@@ -99,13 +99,13 @@ li a:hover:not(.active) {
 </section>
 </div>
 
-<section id="projects">
-  <div class="project-tile">
-    <h2> Welcome to my portfolio </h2>
-    <p> Shitty python developer </p>
+<section id="welcome-section">
+  <div class="welcome-section">
+    <h2> Welcome to my website </h2>
+    <p> Student web developer </p>
   </div>
   </section>
-<section id="Projects">
+<section id="projects">
   <div class="project-tile">
     <h2> Intern </h2>
     <p> Shitty HTML developer </p>
@@ -115,19 +115,21 @@ li a:hover:not(.active) {
  <section id="about">
   <div class="About">
     <h2> About me </h2>
-    <p> Phone number: 12 34 5678 </p>
-    <p> Email: Bastas@mail.com </p>
+    <p> I am a student at Kuben Vocational arena where I study computers and electronics </p>
+    <p>My goal with this website is to display my skills with web coding etc </p>
   </div>
   </section>
 
-<section id="Contact">
+<section id="contact">
   <div class="contact">
     <h2> Contact </h2>
-    <p> This is my project </p>
-    <p> This is my project </p>
+   <a href="https://www.twitter.com">
+<img border="0" alt="Twitter" src="https://norsis.no/wp-content/uploads/2018/05/twitter.jpg" width="50" height="50">
+   <a href="https://www.youtube.com">
+<img border="0" alt="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" width="50" height="50">
+     <p> Email: Bastas.Atahan@gmail.com </p>
   </div>
   </section>
-
 <script>
 document.getElementsByTagName("h1")[0].style.fontSize = "80px";
 </script>
