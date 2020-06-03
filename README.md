@@ -52,7 +52,7 @@
 </body>
 
 <style>
-  body {
+body {
   background-color: #2DC4A8;
 }
 ul {
@@ -120,9 +120,15 @@ li a:hover:not(.active) {
 }
 
 @media only screen and (max-width: 1300px) {
-  .project-tile {
-    background-color: white;
+  .welcome-section { 
     color: black;
+    font-size: 16px;
+  }
+}
+@media only screen and (max-width: 1300px) {
+  .welcome { 
+    color: black;
+    font-size: 16px;
   }
 }
 </style>
