@@ -45,7 +45,7 @@
       <a href="https://www.youtube.com" target="_blank">
         <img border="0" alt="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" width="50" height="50"> </a>
         
-        <p> Email: Bastas.Atahan@gmail.com </p>
+  
 </div>
 </section>
 </body>
